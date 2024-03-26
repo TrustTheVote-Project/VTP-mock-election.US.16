@@ -1,0 +1,8 @@
+Contest '0000 - U.S. President' (2a355e6a2d55ef84ef058e119f613fe33dc38539) is vote 137 out of 137 votes
+Contest '0001 - U.S. Senate' (25d1b3624fdd8d3a2410e6041eeacf70f1f11942) is vote 137 out of 137 votes
+Contest '0002 - Governor' (e8ed8faa804abebb83452251b648fef68e70f750) is vote 137 out of 137 votes
+Contest '0003 - County Clerk' (daa986dd198f860afca6c5b7b2b2fb7e2ed13a22) is vote 137 out of 137 votes
+Contest '0004 - Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM?' (179377826154ab75a0a5ebc90238a20985bdf3bc) is vote 137 out of 137 votes
+############
+[GOOD]: ballot receipt VALID - no digest errors found
+############

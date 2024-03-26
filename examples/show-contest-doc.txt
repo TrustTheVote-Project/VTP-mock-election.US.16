@@ -1,0 +1,45 @@
+commit 2a355e6a2d55ef84ef058e119f613fe33dc38539
+Author: Sandy Currier <windoverwater@users.noreply.github.com>
+Date:   Sat Jan 1 12:00:00 2022 -0500
+
+    {
+        "CVR": {
+            "cast_branch": "CVRs/0000/3575cd3bd3",
+            "choices": [
+                {
+                    "name": "Circle Party Ticket",
+                    "ticket_names": [
+                        "Rey Skywalker",
+                        "Obi-Wan Kenobi"
+                    ]
+                },
+                {
+                    "name": "Square Party Ticket",
+                    "ticket_names": [
+                        "Atticus Finch",
+                        "Hermione Granger"
+                    ]
+                },
+                {
+                    "name": "Triangle Party Ticket",
+                    "ticket_names": [
+                        "Evelyn Quan Wang",
+                        "Waymond Wang"
+                    ]
+                }
+            ],
+            "contest_type": "ticket",
+            "ggo": "GGOs/states/Massachusetts",
+            "max": 1,
+            "name": "U.S. President",
+            "selection": [
+                "0: Circle Party Ticket"
+            ],
+            "tally": "plurality",
+            "ticket_offices": [
+                "President",
+                "Vice President"
+            ],
+            "uid": "0000"
+        }
+    }
