@@ -39,6 +39,7 @@
             "election_upstream_remote": "https://github.com/TrustTheVote-Project/VTP-mock-election.US.16",
             "ggo": "GGOs/states/Massachusetts",
             "max_selections": 1,
+            "selection": [],
             "tally": "plurality",
             "ticket_titles": [
                 "President",
@@ -79,6 +80,7 @@
             "election_upstream_remote": "https://github.com/TrustTheVote-Project/VTP-mock-election.US.16",
             "ggo": "GGOs/states/Massachusetts",
             "max_selections": 6,
+            "selection": [],
             "tally": "rcv",
             "uid": "0001",
             "win_by": "0.5"
@@ -100,6 +102,7 @@
             "election_upstream_remote": "https://github.com/TrustTheVote-Project/VTP-mock-election.US.16",
             "ggo": "GGOs/states/Massachusetts/GGOs/counties/Middlesex",
             "max_selections": 1,
+            "selection": [],
             "tally": "plurality",
             "uid": "0002",
             "win_by": "0.5"
@@ -118,6 +121,7 @@
             "election_upstream_remote": "https://github.com/TrustTheVote-Project/VTP-mock-election.US.16",
             "ggo": "GGOs/states/Massachusetts/GGOs/towns/Concord/GGOs/precincts/2",
             "max_selections": 1,
+            "selection": [],
             "tally": "plurality",
             "uid": "0005",
             "win_by": "0.5"
@@ -137,6 +141,7 @@
             "election_upstream_remote": "https://github.com/TrustTheVote-Project/VTP-mock-election.US.16",
             "ggo": "GGOs/states/Massachusetts/GGOs/towns/Concord",
             "max_selections": 1,
+            "selection": [],
             "tally": "plurality",
             "uid": "0003",
             "win_by": "2/3"
