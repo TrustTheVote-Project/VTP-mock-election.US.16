@@ -1,29 +1,11 @@
-# A VoteTracker+ Mock US Election Repo
+# A VoteTrackr+ Mock US Election Repo
 
 This is a work in progress.
 
-This repository represents the current thoughts on how to configure an election for VoteTracker+.  See the [VoteTrackerPlus](https://github.com/TrustTheVote-Project/VoteTrackerPlus) repository for more information.
+This repository represents the current thoughts on how to configure an election for VoteTrackerPlus (VTP).  The VTP documentation generally refers to this repo as the ElectionData repo as it is the repo (plus any necessary git submodules) that contains the definition of the election.  It also will store all the blank ballots and cast contest based Cast Vote Records (CVRs) as well as the versioned ballot checks that voters can optionally take with them.
 
-## How to clone this and the VoteTracker+ repos and setup up a VTP demo
+The general layout and relationship of the various VTP repos is described in the [VTP-dev-env](https://github.com/TrustTheVote-Project/VTP-dev-env) repository - see the README there first.
 
-See the [VTP-dev-env](https://github.com/TrustTheVote-Project/VTP-dev-env) repo for more information.
+See the [VoteTrackerPlus](https://github.com/TrustTheVote-Project/VoteTrackerPlus) repository for general VTP design and project information - that repo is the primary VTP repo.
 
-```bash
-# Clone the VTP-dev-env repo, not this repo (https example)
-$ git clone https://github.com/TrustTheVote-Project/VTP-dev-env.git
-
-# Run the makefile there, which will pull this and the other repos of interest
-# as git submodules of the VTP-dev-env repo.
-$ cd VTP-dev-env
-$ make init
-
-# Using poetry perform a local install of VoteTracker+
-$ cd VoteTrackerPlus
-$ make poetry-build
-
-# To setup a mock demo election using this (ElectionData) repo:
-$ cd ../VTP-mock-election.US.16
-$ setup-vtp-demo
-```
-
-See the [developer readme](https://github.com/TrustTheVote-Project/VoteTrackerPlus/tree/main/src/vtp) in the VoteTrackerPlus repo for more details.
+See the [developer readme](https://github.com/TrustTheVote-Project/VoteTrackerPlus/tree/main/src/vtp) in the VoteTrackerPlus repo for even more details.
